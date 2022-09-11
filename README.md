@@ -1,6 +1,4 @@
 # odin-recipes
-from the html lesson project
-
-This is a project from The Odin Project.  It is from the html portion.  It will house recipes.  It will demonstrate my abilities to create lists and other text with html, a basic webpage.
-
-CSS will be added later to make it more appealing.
+Practice HTML
+Add CSS later for appeal
+Commit early and often
