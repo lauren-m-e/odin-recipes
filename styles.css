@@ -1,6 +1,7 @@
 body {
-    background-color: rgba(220, 237, 95, 0.861);
+    background-color: rgba(243, 237, 169, 0.861);
     color: rgb(116, 105, 8);
+    font-size: 20;
 }
 img {
     height: auto;
